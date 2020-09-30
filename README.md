@@ -1,2 +1,2 @@
 # SeleniumPython
-Automation Project
+Selenium Python an automation project 
